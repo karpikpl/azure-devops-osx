@@ -11,3 +11,10 @@ Install Install AzureRM.NetCore by following steps:
 # Connect to Azure
 1. Load module: `Import-Module AzureRM.Profile.Netcore`
 2. Login: `Connect-AzureRmAccount`
+
+Scripted in `login.ps`
+
+## VM
+Starting and stopping VM in Azure scripts:
+* `startVM.ps1`
+* `stopVM.ps1`
